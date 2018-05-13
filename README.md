@@ -7,6 +7,6 @@ to see a working demo of the algorithm (from Linux/Mac):
 <ul>
 <li>open terminal</li>
 <li>input: "cd Desktop"</li>
-<li>input: "git clone https://github.com/SolbiatiAlessandro/js-ScrollingTrigger"</li>
+<li>input: "git clone https://github.com/SolbiatiAlessandro/ScrollingTrigger.js"</li>
 <li>navigate to the new folder on your desktop and open index.html with your browswer</li>
   </ul>
